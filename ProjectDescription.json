@@ -1,9 +1,9 @@
 {
-  "ProjectName": "CIRCUITOS",
+  "ProjectName": "Digital-Logic-Sim-master",
   "DLSVersion_LastSaved": "2.1.6",
   "DLSVersion_EarliestCompatible": "2.0.0",
   "CreationTime": "2025-04-22T19:45:00.701-03:00",
-  "LastSaveTime": "2025-05-20T00:24:36.353-03:00",
+  "LastSaveTime": "2025-05-27T19:13:40.812-03:00",
   "Prefs_MainPinNamesDisplayMode": 2,
   "Prefs_ChipPinNamesDisplayMode": 1,
   "Prefs_GridDisplayMode": 1,
@@ -28,7 +28,8 @@
     "FULL_SUBTRACTOR",
     "2-BIT_SUBTRACTOR",
     "4-BIT_SUBTRACTOR",
-    "8-BIT_SUBTRACTOR"
+    "8-BIT_SUBTRACTOR",
+    "Deslocadores"
   ],
   "StarredList":[
     {
@@ -46,6 +47,10 @@
     {
       "Name":"ARITHMETIC_GATES",
       "IsCollection":true
+    },
+    {
+      "Name":"Deslocadores",
+      "IsCollection":false
     }
   ],
   "ChipCollections":[
