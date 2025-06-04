@@ -3,7 +3,7 @@
   "DLSVersion_LastSaved": "2.1.6",
   "DLSVersion_EarliestCompatible": "2.0.0",
   "CreationTime": "2025-04-22T19:45:00.701-03:00",
-  "LastSaveTime": "2025-06-02T22:42:51.620-03:00",
+  "LastSaveTime": "2025-06-03T20:27:38.149-03:00",
   "Prefs_MainPinNamesDisplayMode": 2,
   "Prefs_ChipPinNamesDisplayMode": 1,
   "Prefs_GridDisplayMode": 1,
@@ -35,7 +35,10 @@
     "8-OR",
     "3-AND",
     "8-DECODER",
-    "CRIPT XOR"
+    "CRIPT XOR",
+    "ULA GUSTAVO",
+    "2-MUX",
+    "ULA ADD SUB"
   ],
   "StarredList":[
     {
@@ -55,7 +58,15 @@
       "IsCollection":true
     },
     {
-      "Name":"CRIPT XOR",
+      "Name":"ULA GUSTAVO",
+      "IsCollection":false
+    },
+    {
+      "Name":"2-MUX",
+      "IsCollection":false
+    },
+    {
+      "Name":"ULA ADD SUB",
       "IsCollection":false
     }
   ],
@@ -91,7 +102,7 @@
       "Name":"MEMORY"
     },
     {
-      "Chips":["PULSE","LED","BUZZER","Deslocadores"],
+      "Chips":["PULSE","LED","BUZZER","Deslocadores","CRIPT XOR","ULA GUSTAVO","2-MUX","ULA ADD SUB"],
       "IsToggledOpen":true,
       "Name":"OTHER"
     },
